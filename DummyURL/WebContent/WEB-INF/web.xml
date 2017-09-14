@@ -13,7 +13,7 @@
   
   <servlet-mapping>
     <servlet-name>greetServlet</servlet-name>
-    <url-pattern>/gmapsej/greet</url-pattern>
+    <url-pattern>/dummyurl/greet</url-pattern>
   </servlet-mapping>
   
   <servlet>

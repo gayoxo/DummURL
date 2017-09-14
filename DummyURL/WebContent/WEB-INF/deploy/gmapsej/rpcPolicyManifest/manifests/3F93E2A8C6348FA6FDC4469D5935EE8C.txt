@@ -1,0 +1,2 @@
+serviceClass: fdi.maps.client.GreetingService
+path: 4703B38FF991F644DDB88AA35324DA08.gwt.rpc
